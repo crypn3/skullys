@@ -15,6 +15,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@koa/cors": "^2.2.2",
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.1.4",
     "lite-server": "^2.4.0",
     "truffle-hdwallet-provider-privkey": "^0.3.0"
   },
