@@ -1,4 +1,5 @@
-# Skullys Contract
+# Skullys example Contract
+- This is contract `https://ropsten.etherscan.io/token/0x29983aaa8ea579c0409bb50d39e12e81d5d2a3e8`
 
 ## Getting started
 First you need to install all of the requirements to run truffle and a local testrpc.
