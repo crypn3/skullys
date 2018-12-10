@@ -83,7 +83,7 @@ App = {
   },
 
   initContract: function() {
-    $.getJSON('SKullys.json', function(data) {
+    $.getJSON('Skullys.json', function(data) {
       // Get the necessary contract artifact file and instantiate it with truffle-contract.
       var KudosTokenArtifact = data;
       // TrufleContract is for local development only
