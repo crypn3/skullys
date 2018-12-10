@@ -388,7 +388,7 @@ App = {
       }
       let items = ["1", "2", "3"];
       let data = items[Math.floor(Math.random()*items.length)];
-      kudos[0] = data;
+      kudos[0] = kudosId;
 
       let source = kudosMap[kudos[0]].image;
       if(source === undefined) {
